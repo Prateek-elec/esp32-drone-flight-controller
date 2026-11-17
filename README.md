@@ -1,6 +1,6 @@
 <div align="center">
 
-# ESP32 Micro-Drone: the PCB *is* the frame
+<img src="docs/banner.png" alt="ESP32 Micro-Drone" width="100%"/>
 
 **A palm-sized quadcopter where the circuit board doubles as the airframe: ESP32 brain, MPU-6050 IMU, USB-C LiPo charging and four onboard brushed-motor drivers, all designed in KiCad 9.**
 
@@ -9,11 +9,16 @@
 ![Status](https://img.shields.io/badge/status-layout%20complete-f59e0b?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-22c55e?style=for-the-badge)
 
-<img src="docs/images/3d-render.jpeg" width="70%" alt="3D render of the ESP32 drone PCB frame"/>
-
 </div>
 
 ---
+
+## 🔥 Why it hits different
+
+- 🪶 **The PCB is the frame:** arms, motor mounts and electronics in one board.
+- 📶 **Fly it from your phone:** ESP32 Wi-Fi and Bluetooth built in.
+- 🔋 **Charge over USB-C:** onboard single-cell LiPo charger.
+- 🛠️ **One board, four motors, done:** MOSFET drivers for brushed motors included.
 
 ## The idea
 
@@ -73,8 +78,16 @@ Ideas, layout reviews and firmware help are welcome: [open an issue](https://git
 
 [MIT](LICENSE) © Prateek Sarkar
 
+---
+
 <div align="center">
 
-**Like the PCB-as-frame idea? Leave a ⭐ so more drone builders see it.**
+### If this made you go *"wait, that's sick"* 👀
+
+**Drop a ⭐ so more builders find it, and share it with someone who'd build one.**
+
+[![Share on X](https://img.shields.io/badge/share%20on-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/intent/tweet?text=A%20drone%20where%20the%20PCB%20IS%20the%20frame%20%F0%9F%9A%81&url=https%3A%2F%2Fgithub.com%2FPrateek-elec%2Fesp32-drone-flight-controller)
+[![Share on LinkedIn](https://img.shields.io/badge/share%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2FPrateek-elec%2Fesp32-drone-flight-controller)
+[![Follow](https://img.shields.io/badge/follow-@Prateek--elec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prateek-elec)
 
 </div>
