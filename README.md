@@ -13,7 +13,7 @@
 
 ---
 
-## 🔥 Why it hits different
+## Highlights
 
 - 🪶 **The PCB is the frame:** arms, motor mounts and electronics in one board.
 - 📶 **Fly it from your phone:** ESP32 Wi-Fi and Bluetooth built in.
@@ -82,7 +82,7 @@ Ideas, layout reviews and firmware help are welcome: [open an issue](https://git
 
 <div align="center">
 
-### If this made you go *"wait, that's sick"* 👀
+### Found this useful?
 
 **Drop a ⭐ so more builders find it, and share it with someone who'd build one.**
 
